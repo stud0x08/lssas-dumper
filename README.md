@@ -2,26 +2,19 @@ LSASS Remote Dumping Tool - Remote Operations Guide
 
 Table of Contents
 
-1.
-Remote Operation Overview
+1.Remote Operation Overview
 
-2.
-Network Discovery and Reconnaissance
+2.Network Discovery and Reconnaissance
 
-3.
-Credential Management
+3.Credential Management
 
-4.
-Remote Execution Methods
+4.Remote Execution Methods
 
-5.
-Advanced Remote Scenarios
+5.Advanced Remote Scenarios
 
-6.
-Troubleshooting Remote Operations
+6.Troubleshooting Remote Operations
 
-7.
-Security and Stealth Considerations
+7.Security and Stealth Considerations
 
 Remote Operation Overview
 
